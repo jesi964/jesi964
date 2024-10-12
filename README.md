@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jesi964
-- 👀 I’m interested in ethical hacking and web development
+- 👀 I’m interested in ethical hacking, python and web development
 - 🌱 I’m currently learning cyber security and programming languages like python, html, css
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I wanna learn both web development and ethical hacking

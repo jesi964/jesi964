@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jesi964
-- 👀 I’m interested in ethical hacking
+- 👀 I’m interested in ethical hacking and web development
 - 🌱 I’m currently learning cyber security and programming languages like python, html, css
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...

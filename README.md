@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @jesi964
-- 👀 I’m interested in ethical hacking, python and web development
-- 🌱 I’m currently learning cyber security and programming languages like python, html, css
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Jessica Shrestha.
+- 👀 I’m interested in networking and IT security, mainly on red teaming and network security.
+- 🌱 I’m currently working as an intern in IT support. I am pursuing cyber security degree. I have been completing free certifications along with try hack me labs. 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I wanna learn both web development and ethical hacking
+- ⚡ Fun fact: I wanna learn web development, machine learning, AI along with my main goal, cyber security.
 
 <!---
 jesi964/jesi964 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
